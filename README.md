@@ -9,6 +9,7 @@
   - [3. Install React Navigation](#3-install-react-navigation)
   - [4. Install Stack Navigator](#4-install-stack-navigator)
   - [5. Install Axios](#5-install-axios)
+  - [6. Install React Native Snap Carousel](#6-install-react-native-snap-carousel)
 
 ## 1. Create Expo Project
 
@@ -47,3 +48,19 @@
 
 - Run:
   - `$ npm i axios`
+
+## 6. Install React Native Snap Carousel
+
+<https://github.com/meliorence/react-native-snap-carousel>
+
+- Run:
+
+```bash
+$ npm install --save react-native-snap-carousel
+```
+
+- If you're using Typescript you should also install type definitions:
+
+```bash
+$ npm install -D @types/react-native-snap-carousel
+```
