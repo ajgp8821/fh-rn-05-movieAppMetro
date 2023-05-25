@@ -8,6 +8,7 @@
   - [2. Configure Eslint](#2-configure-eslint)
   - [3. Install React Navigation](#3-install-react-navigation)
   - [4. Install Stack Navigator](#4-install-stack-navigator)
+  - [5. Install Axios](#5-install-axios)
 
 ## 1. Create Expo Project
 
@@ -39,3 +40,10 @@
   - `$ npm install react-native-gesture-handler`
 - Optional
   - `$ npm install @react-native-masked-view/masked-view`
+
+## 5. Install Axios
+
+<https://www.npmjs.com/package/axios>
+
+- Run:
+  - `$ npm i axios`
